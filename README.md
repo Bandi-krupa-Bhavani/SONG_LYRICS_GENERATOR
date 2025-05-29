@@ -32,8 +32,10 @@ Song Lyrics Generator is an AI/ML project that generates creative song lyrics us
    git clone https://github.com/yourusername/song-lyrics-generator.git
    cd song-lyrics-generator
 2. Launch Jupyter Notebook
+   
 3. Run the cells to:
 - Train the model or load pretrained weights
+  
 - Generate lyrics from your chosen seed text
 # How to Use
 - Set a custom seed_text in the notebook.
